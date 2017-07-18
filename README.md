@@ -2,7 +2,7 @@
 SPTempRels trains and evaluates a structured perceptron model for extracting temporal relations from clinical texts, in which events and temporal expressions are given. It can also be used to replicate the experiments done by [Leeuwenberg and Moens (EACL, 2017)](http://www.aclweb.org/anthology/E/E17/E17-1108.pdf)
 
 # Code
-The code corresponding to the paper can be obtained under an academic license at:
+The code corresponding to the paper can soon be obtained under an academic license at:
 
 http://liir.cs.kuleuven.be/software.php
 
