@@ -6,6 +6,8 @@ The code corresponding to the paper can soon be obtained under an academic licen
 
 http://liir.cs.kuleuven.be/software.php
 
+However, before that you can also always send me an email to request the code: tuur [dot] leeuwenberg [at] cs [dot] kuleuven [dot] be
+
 # Reference
 
 ```
