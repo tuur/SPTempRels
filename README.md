@@ -6,7 +6,7 @@ The code corresponding to the paper can be obtained at:
 
 http://liir.cs.kuleuven.be/software_pages/structured_learning_temporal_relation.php
 
-However, before that you can also always send me an email to request the code: tuur [dot] leeuwenberg [at] cs [dot] kuleuven [dot] be
+However, before that you can also always send me an email to request the code: aleeuw15 [at] umcutrecht [dot] nl
 
 # Reference
 
